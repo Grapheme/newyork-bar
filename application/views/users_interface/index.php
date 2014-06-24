@@ -17,7 +17,7 @@
 			<div id="carousel" class="cf" style="margin-bottom: 0;">
 				<div class="photo-wrapper clear">
 					<a class="promo-banner" href="<?=$baseurl;?>afisha">
-						<img src="<?=$baseurl;?>images/afisha/mao.jpg" alt="" />
+						<img src="<?=$baseurl;?>images/afisha/smocni-ganz.jpg" alt="" />
 					</a>
 					<a class="promo-banner" href="<?=$baseurl;?>afisha">
 						<img src="<?=$baseurl;?>images/afisha/f2014.jpg" alt="" />
